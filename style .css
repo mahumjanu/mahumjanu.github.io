@@ -1,0 +1,11 @@
+body{
+    background-color:rgba(181, 20, 81, 0.762);
+}
+h1{
+    color:black;
+}
+table, th, td{
+    border:1px dashed black;
+    text-align: center;
+
+}
