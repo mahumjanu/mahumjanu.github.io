@@ -1,8 +1,9 @@
 body{
-    background-color:rgba(181, 20, 81, 0.762);
+    background-color:#C26989;
 }
 h1{
-    color:black;
+    color:#EB8D88;
+    text-align: center;
 }
 table, th, td{
     border:1px dashed black;
@@ -10,5 +11,26 @@ table, th, td{
 
 }
 p{
-    color:rgb(101, 6, 41)
+    color:#F8B988;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+#p1{
+    width: 200px;
+}
+#p2{
+    width: 200px;
+    text-align: right;
+}
+
+a{
+    color:#555A87;
+}
+nav{
+    color:#555A87
 }
