@@ -7,6 +7,7 @@ h1{
 }
 
 table, th, td{
+    
     border:dashed#000000 1px;
 }
 p{
@@ -16,10 +17,10 @@ p{
 }
 
 #p1{
-    width: 200px;
+    width: 500px;
 }
 #p2{
-    width: 200px;
+    width: 500px;
     text-align: right;
 }
 
@@ -36,5 +37,5 @@ img {
   }
   
 #p3{
-    width: 300px;
+    width: 400px;
 }
