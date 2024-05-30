@@ -1,5 +1,5 @@
 body{
-    background-color:#C26989;
+    background-color:#000000;
 }
 h1{
     color:#EB8D88;
@@ -17,7 +17,8 @@ p{
 }
 
 #p1{
-    width: 500px;
+    width: 1200px;
+    
 }
 #p2{
     width: 500px;
