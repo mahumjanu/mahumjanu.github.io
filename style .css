@@ -2,18 +2,13 @@ body{
     background-color:#000000;
 }
 h1{
-    color:#EB8D88;
+    color:#72cde4;
     text-align: center;
 }
 
 table, th, td{
     
     border:dashed#000000 1px;
-}
-p{
-    color:#000000;
-    text-align: center;
-
 }
 
 #p1{
@@ -27,14 +22,20 @@ p{
     align-self: center;
 }
 
-#p3{
-    width: 400px;
-    align-self: last baseline;
-
-}
 a{
     color:#555A87;
+    text-align: center;
 }
 nav{
     color:#555A87
+}
+
+h2{
+    color:#72cde4;
+    text-align: center;
+}
+
+h3{
+    color:#72cde4;
+    text-align: center;
 }
