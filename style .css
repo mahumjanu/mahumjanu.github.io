@@ -17,26 +17,24 @@ p{
 }
 
 #p1{
-    width: 1200px;
+    width: 1420px;
+    align-self: center;
     
 }
+
 #p2{
-    width: 500px;
-    text-align: right;
+    width: 400px;
+    align-self: center;
 }
 
+#p3{
+    width: 400px;
+    align-self: last baseline;
+
+}
 a{
     color:#555A87;
 }
 nav{
     color:#555A87
-}
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-#p3{
-    width: 400px;
 }
